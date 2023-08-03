@@ -1,0 +1,31 @@
+2023-08-01 21:42:58,968.mtcars_server.INFO =============================================================
+2023-08-01 21:42:58,969.mtcars_server.INFO Today is 2023-08-01 at 09:42 PM
+2023-08-01 21:42:58,969.mtcars_server.INFO This file is running on: nt Windows 10
+2023-08-01 21:42:58,970.mtcars_server.INFO The Python version is: 3.9.13
+2023-08-01 21:42:58,970.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\.venv
+2023-08-01 21:42:58,970.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates
+2023-08-01 21:42:58,970.mtcars_server.INFO =============================================================
+2023-08-01 21:43:06,696.mtcars_server.DEBUG filter message: Showing 32 of 32 records
+2023-08-01 21:43:06,842.mtcars_server.INFO Starting mtcars_output_widget1
+2023-08-01 21:43:07,733.mtcars_server.INFO Starting mtcars_plot1
+2023-08-01 21:43:11,423.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-01 21:43:11,431.mtcars_server.INFO READING df len 15
+2023-08-01 21:43:11,431.mtcars_server.INFO init reactive_temp_df len: 15
+2023-08-01 21:43:11,432.mtcars_server.INFO mtcars_temperature_location_string starting
+2023-08-01 21:43:11,432.mtcars_server.INFO Recent Temperature in F for ELY MN.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-01 21:43:11,435.mtcars_server.INFO Rendering TEMP table with 5 rows
+2023-08-01 21:43:11,439.mtcars_server.INFO Rendering TEMP chart with 5 points
+2023-08-01 21:43:11,635.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-01 21:43:11,647.mtcars_server.INFO READING df len 3
+2023-08-01 21:43:11,651.mtcars_server.INFO Rendering TEMP table with 1 rows
+2023-08-01 21:43:11,664.mtcars_server.INFO Rendering TEMP chart with 1 points
+2023-08-01 21:44:12,111.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-01 21:44:12,118.mtcars_server.INFO READING df len 6
+2023-08-01 21:44:12,119.mtcars_server.INFO Rendering TEMP table with 2 rows
+2023-08-01 21:44:12,123.mtcars_server.INFO Rendering TEMP chart with 2 points
+2023-08-01 21:45:12,504.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-01 21:45:12,512.mtcars_server.INFO READING df len 9
+2023-08-01 21:45:12,514.mtcars_server.INFO Rendering TEMP table with 3 rows
+2023-08-01 21:45:12,517.mtcars_server.INFO Rendering TEMP chart with 3 points
