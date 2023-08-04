@@ -1,33 +1,7 @@
-2023-08-01 21:42:57,130.continuous_location.INFO =============================================================
-2023-08-01 21:42:57,130.continuous_location.INFO Today is 2023-08-01 at 09:42 PM
-2023-08-01 21:42:57,132.continuous_location.INFO This file is running on: nt Windows 10
-2023-08-01 21:42:57,132.continuous_location.INFO The Python version is: 3.9.13
-2023-08-01 21:42:57,133.continuous_location.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\.venv
-2023-08-01 21:42:57,133.continuous_location.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates
-2023-08-01 21:42:57,134.continuous_location.INFO =============================================================
-2023-08-01 21:43:11,555.continuous_location.INFO Calling update_csv_location
-2023-08-01 21:43:11,586.continuous_location.INFO update_interval: 60
-2023-08-01 21:43:11,598.continuous_location.INFO total_runtime: 900
-2023-08-01 21:43:11,598.continuous_location.INFO num_updates: 10
-2023-08-01 21:43:11,599.continuous_location.INFO Initialized csv file at C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
-2023-08-01 21:43:11,600.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:43:11,601.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
-2023-08-01 21:43:11,601.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:43:11,602.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
-2023-08-01 21:43:11,603.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:43:11,604.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
-2023-08-01 21:43:11,613.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
-2023-08-01 21:44:11,618.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:44:11,619.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
-2023-08-01 21:44:11,619.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:44:11,620.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
-2023-08-01 21:44:11,621.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:44:11,621.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
-2023-08-01 21:44:11,623.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
-2023-08-01 21:45:11,649.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:45:11,649.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
-2023-08-01 21:45:11,650.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:45:11,651.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
-2023-08-01 21:45:11,651.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-08-01 21:45:11,652.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
-2023-08-01 21:45:11,656.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-02 19:25:20,418.continuous_location.INFO =============================================================
+2023-08-02 19:25:20,419.continuous_location.INFO Today is 2023-08-02 at 07:25 PM
+2023-08-02 19:25:20,452.continuous_location.INFO This file is running on: nt Windows 10
+2023-08-02 19:25:20,453.continuous_location.INFO The Python version is: 3.9.13
+2023-08-02 19:25:20,453.continuous_location.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\.venv
+2023-08-02 19:25:20,453.continuous_location.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates
+2023-08-02 19:25:20,455.continuous_location.INFO =============================================================
