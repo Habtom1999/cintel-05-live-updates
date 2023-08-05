@@ -23,9 +23,10 @@ logger, log_filename = setup_logger(__file__)
 def lookup_ticker(company):
   ticker_dictionary ={
      "Tesla Inc":{"tick":"TSLA"}, 
-     "Honda Company":{"tick":"HMC"}, 
-     "Volvo Company":{"tick":"VLVLY"},
-     "Hyundai Corporation":{"tick":"HYMTF"},
+     "Honda Motor Co":{"tick":"HMC"}, 
+     "Toyota Motor Corporation":{"tick":"TM"},
+     "Volvo Group":{"tick":"VLVLY"},
+     "Hyundai Motor Company":{"tick":"HYMTF"},
      "General Motors Company" : {"tick":"GM"},
      "Ford":{"tick":"F"},
   }

@@ -30,7 +30,7 @@ def get_mtcars_inputs():
         ui.input_select(
             id="MTCARS_STOCKS_SELECT",
             label="Choose a stock",
-            choices=["TSLA","GM","F","HONDA","VOLVO,HYUNDAI"],
+            choices=["TSLA","GM","F","HONDA","VOLVO","HYUNDAI","TOYOTA"],
             selected="TSLA",
         ),
         ui.tags.hr(),
