@@ -157,13 +157,7 @@ def get_mtcars_server_functions(input, output, session):
         df = get_mtcars_temp_df()
         logger.info(f"init reactive_temp_df len: {len(df)}")
 
-    @reactive.Effect
-    @reactive.event(input.MTCARS_STOCKS_SELECT)
-    def _():
-        """Set two reactive values (the stocks and price df) when user changes company"""
-        reactive_stock.set(input.MTCARS_STOCKS_SELECT())
-        df = get_mtcars_stock_df()
-        logger.info(f"init reative_stocks_df len: {len(df)}")
+    
        
 
     @reactive.file_reader(str(csv_locations))
@@ -174,12 +168,7 @@ def get_mtcars_server_functions(input, output, session):
         logger.info(f"READING df len {len(df)}")
         return df
     
-    @reactive.file_reader(str(csv_stocks))
-    def get_mtcars_stock_df():
-        logger.info(f"Reading df from {csv_stocks} ")
-        df=pd.read_csv(csv_stocks)
-        logger.info(f"Reading df len {len(df)}")
-        return df
+   
 
     @output
     @render.text
@@ -203,13 +192,7 @@ def get_mtcars_server_functions(input, output, session):
         logger.info(f"Rendering TEMP table with {len(df_location)} rows")
         return df_location
     
-    @output
-    @render.table
-    def mtcars_stocks_table():
-        df = get_mtcars_stock_df()
-        df_stock = df[df["Ticker"] == reactive_stock.get()]
-        logger.info(f"Rendering Stock table with {len(df_stock)} rows")
-        return df_stock
+    
 
     @output
     @render_widget
@@ -223,7 +206,47 @@ def get_mtcars_server_functions(input, output, session):
         )
         plotly_express_plot.update_layout(title="Continuous Temperature (F)")
         return plotly_express_plot
-
+    
+    ###########################################################################
+    # CONTINUOUS STOCK UPDATES (String,table,chart)
+    ###########################################################################
+    @reactive.Effect
+    @reactive.event(input.MTCARS_STOCKS_SELECT)
+    def _():
+        """Set two reactive values (the stocks and price df) when user changes company"""
+        reactive_stock.set(input.MTCARS_STOCKS_SELECT())
+        df = get_mtcars_stock_df()
+        logger.info(f"init reative_stocks_df len: {len(df)}")
+        
+    @reactive.file_reader(str(csv_stocks))
+    def get_mtcars_stock_df():
+        logger.info(f"Reading df from {csv_stocks} ")
+        df=pd.read_csv(csv_stocks)
+        logger.info(f"Reading df len {len(df)}")
+        return df
+    
+    @output
+    @render.text
+    def mtcars_stocks_string():
+        """Return a string based on selected stock."""
+        logger.info("mtcars_price_stocks_string starting")
+        selected = reactive_stock.get()
+        line1 = f"Recent Price in USD for {selected}."
+        line2 = "Updated once per minute for 15 minutes."
+        line3 = "Keeps the most recent 10 minutes of data."
+        message = f"{line1}\n{line2}\n{line3}"
+        logger.info(f"{message}")
+        return message
+    
+    @output
+    @render.table
+    def mtcars_stocks_table():
+        df = get_mtcars_stock_df()
+        df_stock = df[df["Ticker"] == reactive_stock.get()]
+        logger.info(f"Rendering Pricw table with {len(df_stock)} rows")
+        return df_stock
+    
+        
     @output
     @render_widget
     def mtcars_stocks_chart():
