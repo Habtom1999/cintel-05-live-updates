@@ -36,3 +36,68 @@
 2023-08-07 22:00:44,663.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
 2023-08-07 22:00:44,664.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.73061&lon=-73.935242&appid=54b37d867f668851633613ae1a099528S&units=imperial
 2023-08-07 22:00:44,667.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-07 22:01:45,249.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:01:45,251.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:01:45,251.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:01:45,251.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:01:45,254.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:01:45,254.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:01:45,255.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:01:45,255.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=34.052235&lon=-118.243683&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:01:45,256.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:01:45,256.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=25.77427&lon=-80.19366&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:01:45,257.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:01:45,257.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.73061&lon=-73.935242&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:01:45,260.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-07 22:02:45,257.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:02:45,257.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:02:45,257.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:02:45,260.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:02:45,260.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:02:45,260.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:02:45,260.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:02:45,264.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=34.052235&lon=-118.243683&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:02:45,266.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:02:45,267.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=25.77427&lon=-80.19366&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:02:45,267.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:02:45,268.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.73061&lon=-73.935242&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:02:45,271.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-07 22:03:45,567.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:03:45,567.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:03:45,567.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:03:45,571.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:03:45,571.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:03:45,571.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:03:45,571.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:03:45,574.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=34.052235&lon=-118.243683&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:03:45,574.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:03:45,575.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=25.77427&lon=-80.19366&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:03:45,576.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:03:45,576.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.73061&lon=-73.935242&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:03:45,579.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-07 22:04:45,587.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:04:45,588.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:04:45,589.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:04:45,590.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:04:45,590.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:04:45,590.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:04:45,592.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:04:45,593.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=34.052235&lon=-118.243683&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:04:45,593.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:04:45,594.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=25.77427&lon=-80.19366&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:04:45,594.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:04:45,595.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.73061&lon=-73.935242&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:04:45,597.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-07 22:05:45,614.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:05:45,614.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:05:45,614.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:05:45,614.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:05:45,614.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:05:45,614.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:05:45,614.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:05:45,614.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=34.052235&lon=-118.243683&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:05:45,614.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:05:45,620.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=25.77427&lon=-80.19366&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:05:45,621.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-07 22:05:45,623.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.73061&lon=-73.935242&appid=54b37d867f668851633613ae1a099528S&units=imperial
+2023-08-07 22:05:45,626.continuous_location.INFO Saving temperatures to C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
