@@ -24,13 +24,13 @@ def get_mtcars_inputs():
         ui.input_select(
             id="MTCARS_LOCATION_SELECT",
             label="Choose a location",
-            choices=["ELY MN", "Death Valley CA", "Maryville MO", "Los Angeles,", "Miami","New York"],
+            choices=["ELY MN", "Death Valley CA", "Maryville MO"],
             selected="ELY MN",
         ),
         ui.input_select(
             id="MTCARS_STOCKS_SELECT",
             label="Choose a stock",
-            choices=["TSLA","GM","F","HMC","VLVLY","HYMTF","TM","MZDAY","NSANY","BMW"],
+            choices=["TSLA","GM","F","HMC","VLVLY","HYMTF","TM"],
             selected="TSLA",
         ),
         ui.tags.hr(),
