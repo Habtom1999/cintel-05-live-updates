@@ -1,20 +1,7 @@
-2023-08-07 21:59:29,837.mtcars_server.INFO =============================================================
-2023-08-07 21:59:29,837.mtcars_server.INFO Today is 2023-08-07 at 09:59 PM
-2023-08-07 21:59:29,837.mtcars_server.INFO This file is running on: nt Windows 10
-2023-08-07 21:59:29,837.mtcars_server.INFO The Python version is: 3.9.13
-2023-08-07 21:59:29,837.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\.venv
-2023-08-07 21:59:29,837.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates
-2023-08-07 21:59:29,844.mtcars_server.INFO =============================================================
-2023-08-07 21:59:37,472.mtcars_server.DEBUG filter message: Showing 32 of 32 records
-2023-08-07 21:59:37,619.mtcars_server.INFO Starting mtcars_output_widget1
-2023-08-07 21:59:38,678.mtcars_server.INFO Starting mtcars_plot1
-2023-08-07 21:59:42,767.mtcars_server.INFO READING df from C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_location.csv
-2023-08-07 21:59:42,768.mtcars_server.INFO READING df len 9
-2023-08-07 21:59:42,768.mtcars_server.INFO init reactive_temp_df len: 9
-2023-08-07 21:59:42,768.mtcars_server.INFO mtcars_temperature_location_string starting
-2023-08-07 21:59:42,768.mtcars_server.INFO Recent Temperature in F for ELY MN.
-Updated once per minute for 15 minutes.
-Keeps the most recent 10 minutes of data.
-2023-08-07 21:59:42,774.mtcars_server.INFO Rendering TEMP table with 3 rows
-2023-08-07 21:59:42,780.mtcars_server.INFO Rendering TEMP chart with 3 points
-2023-08-07 21:59:42,854.mtcars_server.INFO Reading df from C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\data\mtcars_stock.csv 
+2023-08-07 22:39:01,568.mtcars_server.INFO =============================================================
+2023-08-07 22:39:01,568.mtcars_server.INFO Today is 2023-08-07 at 10:39 PM
+2023-08-07 22:39:01,568.mtcars_server.INFO This file is running on: nt Windows 10
+2023-08-07 22:39:01,569.mtcars_server.INFO The Python version is: 3.9.13
+2023-08-07 22:39:01,569.mtcars_server.INFO The active environment path is:   C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates\.venv
+2023-08-07 22:39:01,569.mtcars_server.INFO The current working directory is: C:\Users\habto\Desktop\NWMS classes\cintel-05-live-updates
+2023-08-07 22:39:01,570.mtcars_server.INFO =============================================================
